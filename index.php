@@ -8,7 +8,7 @@
 
   <p> App backend <?=gethostname()?> </p>
 
-    <img src="http://fillmurray.com/408/287" />
+    <img src="https://r.hswstatic.com/w_907/gif/tesla-cat.jpg" />
   </body>
 </html>
 
